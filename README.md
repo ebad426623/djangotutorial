@@ -1,5 +1,5 @@
 # Learning Django 
-I am reading django document and following through the tutotrials. 
+I am reading django document and following through the tutorials. 
 https://docs.djangoproject.com/en/5.1/intro/tutorial01/
 
 ## In my first commit, I learned the following:
